@@ -5,7 +5,7 @@ from PIL import Image
 import graphviz
 import os
 
-# Importăm arhitectura din modulul creat de tine
+# Importăm arhitectura din modulul creat 
 from src.architecture import FullFractalNet
 
 st.set_page_config(page_title="FractalNet Portfolio", layout="wide")
